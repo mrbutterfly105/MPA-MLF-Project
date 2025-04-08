@@ -1,8 +1,8 @@
 ## Úvod
 
-Všichni denně používáme mobilní telefony. Jsou naším spojením s rodinou a přáteli, pomáhají nám vyhledávat
-vyhledávat informace atd. Mobilní telefon musí být vždy připojen k síti, a to prostřednictvím tzv. základnové stanice (jako je např.
+Všichni denně používáme mobilní telefony. Jsou naším spojením s rodinou a přáteli, pomáhají nám vyhledávatvyhledávat informace atd. Mobilní telefon musí být vždy připojen k síti, a to prostřednictvím tzv. základnové stanice (jako je např.
 telekomunikační inženýři, jim říkáme eNodeB nebo gNodeB).
+
 V mobilních sítích však mohou existovat útočníci, kteří využívají bezpečnostních slabin. S využitím
 specializovaného hardwaru a softwaru mohou ukrást některé informace, odesílat škodlivé zprávy nebo sledovat uživatele. Jedním z nich je např.
 známých nástrojů je takzvaná falešná základnová stanice (False Base Station, FBS), někdy nazývaná Rogue Base Station (RBS) nebo International
