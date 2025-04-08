@@ -31,8 +31,9 @@ Cílem vašeho projektu je klasifikovat, zda existuje pouze legitimní základno
 operátora (třída 0) vysílá ze sousední budovy, nebo zda útočník přivedl svůj vysílač do sousední budovy.
 a snaží se ukrást informace uživatelům (třída 1 a třída 2). Falešná/útočníkova základnová stanice
 může být umístěna na jedné ze dvou pozic - třída 1 odpovídá první pozici a třída 2 odpovídá druhé pozici.
-2.
 
+Dataset je zde: [DATASET]([https://github.com/uživatel/repozitář/cesta/k/souboru](https://github.com/mrbutterfly105/MPA-MLF-Project/tree/main/DATASET
+))
 ## 3 Kroky
 
 Vaším úkolem je vytvořit klasifikační modul, který bude správně fungovat při řešení výše popsané úlohy. Nebudeme
