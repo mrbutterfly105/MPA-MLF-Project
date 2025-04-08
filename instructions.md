@@ -1,4 +1,4 @@
-## Úvod
+## 1 Úvod
 
 Všichni denně používáme mobilní telefony. Jsou naším spojením s rodinou a přáteli, pomáhají nám vyhledávatvyhledávat informace atd. Mobilní telefon musí být vždy připojen k síti, a to prostřednictvím tzv. základnové stanice (jako je např.
 telekomunikační inženýři, jim říkáme eNodeB nebo gNodeB).
@@ -15,7 +15,7 @@ do rádiového kanálu.
 
 
 
-## Popis zadání
+## 2 Popis zadání
 
 Struktura rámce signálu 4G/LTE vysílaného ze základnové stanice je znázorněna v levé části obr. 1. Rozhodující část
 přenášených informací jsou tzv. synchronizační sekvence. Existují dvě z nich - primární synchronizace
@@ -32,3 +32,31 @@ operátora (třída 0) vysílá ze sousední budovy, nebo zda útočník přived
 a snaží se ukrást informace uživatelům (třída 1 a třída 2). Falešná/útočníkova základnová stanice
 může být umístěna na jedné ze dvou pozic - třída 1 odpovídá první pozici a třída 2 odpovídá druhé pozici.
 2.
+
+## 3 Kroky
+
+Vaším úkolem je vytvořit klasifikační modul, který bude správně fungovat při řešení výše popsané úlohy. Nebudeme
+nepředepisujeme typ ML modelu. Můžete použít jakoukoli architekturu, kterou jsme probírali v průběhu semestru (nebo jakoukoli jinou, kterou
+kterou znáte). Snažte se dosáhnout co nejvyšší přesnosti testu. Vylaďte výkonnost svého modelu pomocí libovolného
+technik, které jsme probírali, jako je rozšiřování dat, regularizace, dávková normalizace atd. Kromě toho použijte
+algoritmus pro ladění hyperparametrů, abyste našli nejlepší hyperparametry a strukturu modelu. Popište svůj přístup
+ve zprávě.
+
+## 4 - Not importamt
+
+## 5 Obecné připomínky
+- Zpráva by měla mít všechny nezbytné formální náležitosti, které má zpráva podobného typu (úvod, problematika, příprava a zpracování zprávy).
+popis, hlavní část práce, závěry, všechny obrázky a tabulky by měly mít popisky a číslování
+a měly by na ně být odkazy v textu atd.). To byste měli znát (přinejmenším) z bakalářského studia.
+bakalářské práce.
+- Do zprávy nezahrnujte snímky obrazovky vašeho kódu. Pokud chcete popsat některé ze svých algoritmů, použijte
+pseudokód/flow diagramy. Nepopisujte známé algoritmy.
+- Neprezentujte svou práci ve zprávě jako prostý text. K zobrazení a prezentaci použijte grafy, obrázky a tabulky.
+příslušné informace.
+2/3
+- Veškeré kódování musíte provádět v jazyce Python. Nemusíte provádět veškeré kódování od začátku, ale jste povinni.
+všichni smíte používat knihovny a rámce Pythonu (například Keras, PyTorch, Scikit-learn..).
+- Použití Google Collab je důrazně doporučeno, ale není vyžadováno.
+- Dbejte na to, abyste svou práci ve zprávě řádně popsali; zajímá nás spíše postup vaší práce.
+než na správný výsledek.
+- Zprávy, které nebudou dodržovat pokyny uvedené v této části, budou zamítnuty.
