@@ -35,7 +35,6 @@ může být umístěna na jedné ze dvou pozic - třída 1 odpovídá první poz
 Dataset je zde:  [DATASET](https://github.com/mrbutterfly105/MPA-MLF-Project/tree/main/DATASET).
 
 
-Všechny soubory s datovou sadou naleznete zde: [DATASET]((https://github.com/mrbutterfly105/MPA-MLF-Project/tree/main/DATASET).
 Dataset obsahuje následující soubory soubory:
 
 1. `Train/` – složka s trénovacími daty ve formátu `.npy`.
