@@ -47,8 +47,7 @@ Poznámka: Není nutné zpracovávat vzorky jako 2D obrázky – je možné je p
 
 ## 3 Kroky
 
-Vaším úkolem je vytvořit klasifikační modul, který bude správně fungovat při řešení výše popsané úlohy. Nebudeme
-nepředepisujeme typ ML modelu. Můžete použít jakoukoli architekturu, kterou jsme probírali v průběhu semestru (nebo jakoukoli jinou, kterou
+Vaším úkolem je vytvořit klasifikační modul, který bude správně fungovat při řešení výše popsané úlohy. Nepředepisujeme typ ML modelu. Můžete použít jakoukoli architekturu, kterou jsme probírali v průběhu semestru (nebo jakoukoli jinou, kterou
 kterou znáte). Snažte se dosáhnout co nejvyšší přesnosti testu. Vylaďte výkonnost svého modelu pomocí libovolného
 technik, které jsme probírali, jako je rozšiřování dat, regularizace, dávková normalizace atd. Kromě toho použijte
 algoritmus pro ladění hyperparametrů, abyste našli nejlepší hyperparametry a strukturu modelu. Popište svůj přístup
