@@ -26,9 +26,11 @@ v pravé části obrázku 1. Všimněte si, že se skládá ze 72 řádků (odpo
 sloupců (odpovídajících 48 opakováním frekvenční odezvy kanálu).
 
 ![fig1](img/IMG1.png)
+
 <small>levá část obr.1</small>
 
 ![fig2](img/IMG2.png)
+
 <small>pravá část obr.1</small>
 
 Cílem vašeho projektu je klasifikovat, zda ze sousední budovy vysílá pouze legitimní základnová stanice (gNodeB) operátora T-Mobile (třída 0), nebo zda útočník do budovy přinesl podvodný vysílač a snaží se zachytit uživatelské informace (třída 1 nebo třída 2). Základnová stanice útočníka se může nacházet na jednom ze dvou míst - třída 1 odpovídá prvnímu místu a třída 2 druhému.
