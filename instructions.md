@@ -8,10 +8,12 @@ specializovaného hardwaru a softwaru mohou ukrást některé informace, odesíl
 známých nástrojů je takzvaná falešná základnová stanice (False Base Station, FBS), někdy nazývaná Rogue Base Station (RBS) nebo International
 Mobile Subscriber Identifier (IMSI) Catcher. Jedná se o zařízení, které se vydává za legitimní základnovou stanici a snaží se
 mobilní terminály připojit.
+
+
 Falešná základnová stanice se tedy musí chovat jako legitimní stanice, tj. musí vysílat stejné informace jako legitimní stanice.
 do rádiového kanálu.
 
-Translated with DeepL.com (free version)
+
 
 ## Popis zadání
 
