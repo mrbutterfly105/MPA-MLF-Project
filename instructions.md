@@ -25,7 +25,11 @@ frekvenčních odezv jsme vytvořili vzorky, které budete zpracovávat. Příkl
 v pravé části obrázku 1. Všimněte si, že se skládá ze 72 řádků (odpovídajících 72 subnosným přiděleným PSS/SSS) a 48
 sloupců (odpovídajících 48 opakováním frekvenční odezvy kanálu).
 
-![fig1](https://github.com/user-attachments/assets/a6624a53-7633-49af-8ee7-c7a38c4b2c8e)
+![fig1](img/IMG1.png)
+<small>levá část obr.1</small>
+
+![fig2](img/IMG2.png)
+<small>pravá část obr.1</small>
 
 Cílem vašeho projektu je klasifikovat, zda existuje pouze legitimní základnová stanice (gNodeB) společnosti T-mobile.
 operátora (třída 0) vysílá ze sousední budovy, nebo zda útočník přivedl svůj vysílač do sousední budovy.
