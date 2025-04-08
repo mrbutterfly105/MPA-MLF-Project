@@ -32,12 +32,11 @@ operátora (třída 0) vysílá ze sousední budovy, nebo zda útočník přived
 a snaží se ukrást informace uživatelům (třída 1 a třída 2). Falešná/útočníkova základnová stanice
 může být umístěna na jedné ze dvou pozic - třída 1 odpovídá první pozici a třída 2 odpovídá druhé pozici.
 
-Dataset je zde:  [DATASET]((https://github.com/mrbutterfly105/MPA-MLF-Project/tree/main/DATASET).
+Dataset je zde:  [DATASET](https://github.com/mrbutterfly105/MPA-MLF-Project/tree/main/DATASET).
 
 
 Všechny soubory s datovou sadou naleznete zde: [DATASET]((https://github.com/mrbutterfly105/MPA-MLF-Project/tree/main/DATASET).
-
-Odkaz obsahuje .zip archiv s následujícími soubory:
+Dataset obsahuje následující soubory soubory:
 
 1. `Train/` – složka s trénovacími daty ve formátu `.npy`.
 2. `Test/` – složka s testovacími daty ve formátu `.npy`.
