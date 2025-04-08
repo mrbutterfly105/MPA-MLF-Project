@@ -18,7 +18,7 @@ do rádiového kanálu.
 ## 2 Popis zadání
 
 Struktura rámce signálu 4G/LTE vysílaného ze základnové stanice je znázorněna v levé části obr. 1. Rozhodující část
-přenášených informací jsou tzv. synchronizační sekvence. Existují dvě z nich - primární synchronizace
+přenášených informací jsou tzv. synchronizační sekvence. Jsou dvě - primární synchronizace
 (PSS) a sekundární synchronizační sekvence (SSS). Během naší měřicí kampaně jsme zachytili
 obrovské množství takových sekvencí a použili je k výpočtu frekvenčních odezv kanálu. Z těchto kanálových
 frekvenčních odezv jsme vytvořili vzorky, které budete zpracovávat. Příklad jednoho vzorku vizualizovaného ve 2D je uveden na obrázku
