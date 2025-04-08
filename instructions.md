@@ -56,7 +56,7 @@ ve zprávě.
 ## 4 - Not importamt
 
 ## 5 Obecné připomínky
-- Zpráva by měla mít všechny nezbytné formální náležitosti, které má zpráva podobného typu (úvod, problematika, příprava a zpracování zprávy).
+- Zpráva by měla mít všechny nezbytné formální náležitosti, které má zpráva podobného typu (úvod, problematika, příprava a zpracování zprávy,
 popis, hlavní část práce, závěry, všechny obrázky a tabulky by měly mít popisky a číslování
 a měly by na ně být odkazy v textu atd.). To byste měli znát (přinejmenším) z bakalářského studia.
 bakalářské práce.
@@ -64,10 +64,9 @@ bakalářské práce.
 pseudokód/flow diagramy. Nepopisujte známé algoritmy.
 - Neprezentujte svou práci ve zprávě jako prostý text. K zobrazení a prezentaci použijte grafy, obrázky a tabulky.
 příslušné informace.
-2/3
 - Veškeré kódování musíte provádět v jazyce Python. Nemusíte provádět veškeré kódování od začátku, ale jste povinni.
 všichni smíte používat knihovny a rámce Pythonu (například Keras, PyTorch, Scikit-learn..).
 - Použití Google Collab je důrazně doporučeno, ale není vyžadováno.
 - Dbejte na to, abyste svou práci ve zprávě řádně popsali; zajímá nás spíše postup vaší práce.
 než na správný výsledek.
-- Zprávy, které nebudou dodržovat pokyny uvedené v této části, budou zamítnuty.
+- Zprávy, které nebudou dodržovat pokyny uvedené v této části, budou zamítnuty (nehodnoceny?).
